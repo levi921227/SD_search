@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Noto Sans', sans-serif;
-    background-image: url(0310.JPEG);
+    background-image: url(pic/background.JPEG);
     /*linear-gradient(rgba(4,9,30,0.5), rgba(4,9,30,0.5)),*/
     background-size: cover;
     background-position: center;
